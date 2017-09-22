@@ -552,6 +552,7 @@
     <Content Include="Content\HB\vendor\WOW-master\spec\coffeescripts\helpers\SpecHelper.coffee" />
     <Content Include="Content\HB\vendor\WOW-master\spec\coffeescripts\wow-spec.coffee" />
     <Content Include="Content\HB\vendor\WOW-master\src\wow.coffee" />
+    <None Include="Properties\PublishProfiles\heartbeat-biz - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
