@@ -580,7 +580,7 @@
     <Content Include="Views\Shared\i1.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Product.cshtml" />
-    <Content Include="Views\Home\Services.cshtml" />
+    <Content Include="Views\Home\Portfolio.cshtml" />
     <Content Include="Views\Home\GoalandVision.cshtml" />
     <Content Include="Views\Home\MeetTeam.cshtml" />
   </ItemGroup>

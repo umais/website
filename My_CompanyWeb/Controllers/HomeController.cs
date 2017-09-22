@@ -27,7 +27,7 @@ namespace My_CompanyWeb.Controllers
             return View();
         }
 
-        public ActionResult Services()
+        public ActionResult Portfolio()
         {
             ViewBag.Message = "Your application description page.";
 
