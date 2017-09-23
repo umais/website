@@ -396,6 +396,5 @@ C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\bin\Microsoft.AI.DependencyColl
 C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\bin\Microsoft.AI.Web.xml
-C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.csprojResolveAssemblyReference.cache
 C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.dll
 C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.pdb
