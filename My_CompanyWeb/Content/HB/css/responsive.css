@@ -137,7 +137,7 @@
     .subscribe-banner form {width:100%;}
     .subscribe-banner input {width:90%; margin: 0 auto; display: block; float:none;}
     .subscribe-banner button {margin: 20px auto 0 auto; display: block; float:none;}
-    header {position: relative;background: #cd2122;}
+    header {position: relative;background: #fffefe;}
     .inner-page-banner .opacity {padding-top: 90px;}
     .event-details-page .event-details-content .sub-text .table-fix {width: 100%; margin-bottom: 40px;}
     .event-details-page .event-details-content .sub-text #google-map {width: 94%; margin-right: 3%;}
