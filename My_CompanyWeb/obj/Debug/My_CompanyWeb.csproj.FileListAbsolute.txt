@@ -398,3 +398,4 @@ C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\bin\Microsoft.AI.WindowsServer.
 C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\bin\Microsoft.AI.Web.xml
 C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.dll
 C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.pdb
+C:\Users\M Yasir\HeartBeat\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.csprojResolveAssemblyReference.cache
