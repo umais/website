@@ -304,6 +304,9 @@
     <Content Include="Content\HB\images\New_Images\1.gif" />
     <Content Include="Content\HB\images\New_Images\about-banner.jpg" />
     <Content Include="Content\HB\images\New_Images\banner3.jpg" />
+    <Content Include="Content\HB\images\New_Images\cb1.jpg" />
+    <Content Include="Content\HB\images\New_Images\cb2.png" />
+    <Content Include="Content\HB\images\New_Images\cb3.png" />
     <Content Include="Content\HB\images\New_Images\h1.jpeg" />
     <Content Include="Content\HB\images\New_Images\h2.jpeg" />
     <Content Include="Content\HB\images\New_Images\h3.jpg" />

@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
 
+    <!-- For IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- For Responsive Device -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <!-- Favicon -->
     <link rel="icon" type="image/png" sizes="56x56" href="@Url.Content("~/Content/HB/")images/logo/logo.png">
 
@@ -31,8 +37,12 @@
     <script type="text/javascript" src="@Url.Content("~/Content/HB/")vendor/revolution/revolution.extension.actions.min.js"></script>
 
     <!-- Google map js -->
-    <script src="@Url.Content("~/Content/HB/")http://maps.google.com/maps/api/js"></script> <!-- Gmap Helper -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvb9ER1azB7uJhQntx90YP88QFXNYCo_g&callback=initMap"></script> <!-- Gmap Helper -->
     <script src="@Url.Content("~/Content/HB/")vendor/gmap.js"></script>
+    <!-- Validation -->
+    <script type="text/javascript" src="@Url.Content("~/Content/HB/")vendor/contact-form/validate.js"></script>
+    <script type="text/javascript" src="@Url.Content("~/Content/HB/")vendor/contact-form/jquery.form.js"></script>
+
     <!-- Bootstrap Select JS -->
     <script type="text/javascript" src="@Url.Content("~/Content/HB/")vendor/bootstrap-select/dist/js/bootstrap-select.js"></script>
     <!-- Time picker -->
@@ -107,21 +117,13 @@
 
                                 <li>@Html.ActionLink("Home", "Index", "Home")</li>
 
-
                                 <li>@Html.ActionLink("About Us", "About", "Home")</li>
-
-
-                                <li>@Html.ActionLink("PRODUCT", "Product", "Home")</li>
-
 
                                 <li>@Html.ActionLink("PORTFOLIO", "Portfolio", "Home")</li>
 
-
                                 <li>@Html.ActionLink("GOAL AND VISION", "GoalandVision", "Home")</li>
 
-
                                 <li>@Html.ActionLink("MEET THE TEAM", "MeetTeam", "Home")</li>
-
 
                                 <li>@Html.ActionLink("CONTACT US", "Contact", "Home")</li>
 
@@ -187,7 +189,6 @@
 
                                 <li>@Html.ActionLink("Home", "Index", "Home")</li>
                                 <li>@Html.ActionLink("About Us", "About", "Home")</li>
-                                <li>@Html.ActionLink("PRODUCT", "Product", "Home")</li>
                                 <li>@Html.ActionLink("PORTFOLIO", "Portfolio", "Home")</li>
                                 <li>@Html.ActionLink("GOAL AND VISION", "GoalandVision", "Home")</li>
                                 <li>@Html.ActionLink("MEET THE TEAM", "MeetTeam", "Home")</li>

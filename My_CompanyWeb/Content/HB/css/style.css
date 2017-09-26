@@ -1482,6 +1482,18 @@ footer .bottom-footer a:hover {
   color:#fff;
 }
 /*================== Inner Page Main Banner ==============*/
+
+.contact_banner {
+    background: url(../images/New_Images/cb2.png) no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    z-index: 9;
+    height: 100%;
+    padding-top: 256px;
+    padding-bottom: 90px;
+}
+
 .inner-page-banner {
     background: url(../images/New_Images/one.jpg) no-repeat center;
     background-attachment: fixed;
