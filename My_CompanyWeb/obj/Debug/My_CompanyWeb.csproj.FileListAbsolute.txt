@@ -463,6 +463,6 @@ D:\New folder\website\My_CompanyWeb\bin\Microsoft.AI.DependencyCollector.xml
 D:\New folder\website\My_CompanyWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\New folder\website\My_CompanyWeb\bin\Microsoft.AI.WindowsServer.xml
 D:\New folder\website\My_CompanyWeb\bin\Microsoft.AI.Web.xml
-D:\New folder\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.csprojResolveAssemblyReference.cache
 D:\New folder\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.dll
 D:\New folder\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.pdb
+D:\New folder\website\My_CompanyWeb\obj\Debug\My_CompanyWeb.csprojResolveAssemblyReference.cache

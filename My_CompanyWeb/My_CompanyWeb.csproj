@@ -316,6 +316,13 @@
     <Content Include="Content\HB\images\New_Images\promo-1.png" />
     <Content Include="Content\HB\images\New_Images\promo-2.png" />
     <Content Include="Content\HB\images\New_Images\promo-3.png" />
+    <Content Include="Content\HB\images\New_Images\ps1.jpg" />
+    <Content Include="Content\HB\images\New_Images\ps3.jpg" />
+    <Content Include="Content\HB\images\New_Images\ps4.jpg" />
+    <Content Include="Content\HB\images\New_Images\ps5.jpg" />
+    <Content Include="Content\HB\images\New_Images\ps6 copy.jpg" />
+    <Content Include="Content\HB\images\New_Images\pss1.jpg" />
+    <Content Include="Content\HB\images\New_Images\ps7.jpg" />
     <Content Include="Content\HB\images\New_Images\slide-2.jpg" />
     <Content Include="Content\HB\images\New_Images\ss1.jpg" />
     <Content Include="Content\HB\images\New_Images\ss2.jpg" />
