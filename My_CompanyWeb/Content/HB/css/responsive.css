@@ -209,14 +209,16 @@
    .main-menu-wrapper .logo {top:6px;left:15px;}
    .main-menu-wrapper form {position: relative;width:100%;margin: 0 0 20px 0;left:auto;}
    .navbar-collapse,.navbar-collapse.collapse.in {padding-left: 0;padding-right: 0;}
-   .main-menu-wrapper.fixed form,header .top-header div.right-side {display: none;}
+    .main-menu-wrapper.fixed form, header .top-header div.right-side {display:;
+    }
    .main-menu-wrapper.fixed .logo {top:0;}
    .scroll-top {right:5px; bottom: 15px;}
    .course-v2 .single-course .course-heading ul li {display: block;margin: 0 0 5px 0;}
 }
 
 @media (max-width: 450px) {
-   header .top-header div.left-side>ul>li {display:none;float:left;text-align: left;}
+    header .top-header div.left-side > ul > li {display: none;float: left;text-align: left;
+    }
    
 }
 
