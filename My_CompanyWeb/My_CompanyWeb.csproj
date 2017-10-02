@@ -326,6 +326,12 @@
     <Content Include="Content\HB\images\New_Images\h2.jpeg" />
     <Content Include="Content\HB\images\New_Images\h3.jpg" />
     <Content Include="Content\HB\images\New_Images\mockup-psd-ipad-iphone-38639.jpeg" />
+    <Content Include="Content\HB\images\New_Images\new-AC.jpg" />
+    <Content Include="Content\HB\images\New_Images\new-AUJ.jpg" />
+    <Content Include="Content\HB\images\New_Images\new-CH.jpg" />
+    <Content Include="Content\HB\images\New_Images\new-ICNA.jpg" />
+    <Content Include="Content\HB\images\New_Images\new-portfolio.jpg" />
+    <Content Include="Content\HB\images\New_Images\new-ptb.jpg" />
     <Content Include="Content\HB\images\New_Images\ns1 %281%29.jpg" />
     <Content Include="Content\HB\images\New_Images\ns1 %282%29.jpg" />
     <Content Include="Content\HB\images\New_Images\one.jpg" />
@@ -597,6 +603,7 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Views\Home\course-details.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -612,7 +619,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Shared\i1.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Home\Product.cshtml" />
+    <Content Include="Views\Home\Portfolio_Detail.cshtml" />
     <Content Include="Views\Home\Portfolio.cshtml" />
     <Content Include="Views\Home\GoalandVision.cshtml" />
     <Content Include="Views\Home\MeetTeam.cshtml" />

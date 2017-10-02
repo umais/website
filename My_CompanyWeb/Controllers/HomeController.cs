@@ -20,7 +20,8 @@ namespace My_CompanyWeb.Controllers
             return View();
         }
 
-        public ActionResult Product()
+
+        public ActionResult Portfolio_Detail()
         {
             ViewBag.Message = "Your application description page.";
 
@@ -34,12 +35,6 @@ namespace My_CompanyWeb.Controllers
             return View();
         }
 
-        public ActionResult GoalandVision()
-        {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
 
         public ActionResult MeetTeam()
         {
