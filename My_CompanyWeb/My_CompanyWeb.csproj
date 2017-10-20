@@ -315,6 +315,7 @@
     <Content Include="Content\HB\images\New_Images\Final_s2.jpg" />
     <Content Include="Content\HB\images\New_Images\Final_s3.jpg" />
     <Content Include="Content\HB\images\New_Images\Final_s4.jpg" />
+    <Content Include="Content\HB\images\New_Images\flm_Clos - Copy.png" />
     <Content Include="Content\HB\images\New_Images\flm_Clos.png" />
     <Content Include="Content\HB\images\New_Images\HBS_Shedule.jpg" />
     <Content Include="Content\HB\images\New_Images\HBS_Shedule.png" />
@@ -357,6 +358,7 @@
     <Content Include="Content\HB\images\New_Images\Web_GS.jpg" />
     <Content Include="Content\HB\images\New_Images\Web_Gs.png" />
     <Content Include="Content\HB\images\New_Images\Y3.jpg" />
+    <Content Include="Content\HB\images\New_Images\yas.jpg" />
     <Content Include="Content\HB\inc\sendemail.php" />
     <Content Include="Content\HB\js\theme.js" />
     <Content Include="Content\HB\resource\mov_bbb.mp4" />
